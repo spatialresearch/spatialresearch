@@ -28,3 +28,5 @@ Spring of 2021, with the success of NFT's at the art auctions, and subsequent po
 * 11 Real Estate. partial utilitarian services  
 * 12 Service Provider. nft projects, extended marketplace tools, metaverse guides 
 * 13 DAO. actual, eventual, decentralised autonomous organisations
+
+IM 2112282127
