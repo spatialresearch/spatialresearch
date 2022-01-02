@@ -1,7 +1,7 @@
 ## 2112310847 daily sentences
 
 * losses, possibilities, certainly not hope 
-It is slightly unfortunate that the rhythm which the sentences created in June is lost.
+* It is slightly unfortunate that the rhythm which the sentences created in June is lost.
 How to address the gap is now a plan.
 The gap also gets significantly wider each day posts are not published.
 Clarity of direction and changing tests are to blame.
