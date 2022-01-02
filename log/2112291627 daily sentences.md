@@ -1,6 +1,7 @@
 ## 2112291627 daily sentences
 
-If I get this complete on time, this is the first partially completed daily sentence on time.
+* day 01 once again but on GitHub
+* If I get this complete on time, this is the first partially completed daily sentence on time.
 A complete post also contains a found art work from a twitter bot which inspires a daily drawing.
 You could call it a daily composition. 
 Getting these notes in place is just to now acknowledge that writing isn't thinking at all.
