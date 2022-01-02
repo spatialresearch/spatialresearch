@@ -1,7 +1,7 @@
 ## 2112301925 daily sentences
 
 * closing the year metaphorically
-2021 for my references was predominately a year of loss and an year of experimentation.
+* 2021 for my references was predominately a year of loss and an year of experimentation.
 If there was one prolonged experiment, I didn't quite consider it as an experiment while at it is twitter.
 Shutting down the previous account rethinking how engagement online is possible has turned out almost interesting.
 Roam, #roamcult, #toolsforthought, note-taking and web3 everything, I should attribute to time spent on twitter.
