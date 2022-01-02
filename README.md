@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-WIP | 2112282339
+spatialresearch.net began as machimach.com on December 25th 2010. 10years after in 2020 machimach.com died a covid death.
+
+WIP | 2101021429
 <!--
 **spatialresearch/spatialresearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
