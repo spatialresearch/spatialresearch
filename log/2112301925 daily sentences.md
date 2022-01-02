@@ -26,5 +26,4 @@ Algorithmic and statistical thinking both are necessary skills to build the the 
 2021 you could say is year one. 
 2022 is to build up all the ideas, consolidate it. 
 There is no systematic plan to get that in place yet.
-Tomorrow.
 * 2313
