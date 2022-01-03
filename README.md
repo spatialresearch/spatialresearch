@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-spatialresearch.net began as machimach.com on December 25th 2010. 10years after in 2020 machimach.com died a covid death. A reinvention of the identity facilitates an opportunity to rework strategies on what is architectural knowledge production and its form on the internet creative economy. In the time of climate change rather than building more what are the possible contributions to architectural knowledge is the research question, the practice attempts to answer.
+spatialresearch.net began as machimach.com on December 25th 2010. 10years after in 2020 machimach.com died a covid death. The event presented an opportunity to reimagine trajectories of architectural research practice, the knowledge it produces, and its form on the internet creative economy. In the time of climate change rather than building more what are the possible contributions to architectural knowledge is the research question, the practice attempts to answer.
 
 WIP | 2201031437
 <!--
