@@ -1,7 +1,7 @@
 ## 2201031721 daily sentences
 
 * thinking on and about GitHub
-The GitHub blog https://github.blog/ is an entertaining space to think about producing or be part of producing something collectively. 
+* The GitHub blog https://github.blog/ is an entertaining space to think about producing or be part of producing something collectively. 
 This https://github.blog/2021-04-19-open-source-goes-to-mars/ got me started.
 As its seen on the commit timeline after May of 2021, it was only in December that I started using the service.
 A possibility of projects archived in the Arctic, I think is the only reason to think here.
