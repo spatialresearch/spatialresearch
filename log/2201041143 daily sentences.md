@@ -1,7 +1,7 @@
 ## 2201041143 daily sentences
 
 * organising files on the drives and everywhere
-It is four days into the year and the plan for next 300 is to finish four products for sale on the amazon marketplace.
+* It is four days into the year and the plan for next 300 is to finish four products for sale on the amazon marketplace.
 Oddly it seems like this kind of virtual house cleaning is necessary for a research practice to conduct periodically.
 To evaluate the kind of knowledge it already has in its holdings before gathering new material to process.
 State of the ideas investigated.
