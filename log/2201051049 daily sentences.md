@@ -1,7 +1,7 @@
 ## 2201051049 daily sentences
 
 * the Git and GitHub knowledge-base
-Figuring out folders is the trick now.
+* Figuring out folders is the trick now.
 Before all of this, the aspiration to learn creative coding, what I missed out in the process is how to use the interface on VS Code and GitHub is also very much a part of the curve.
 Getting that GitHub dummies guide is a must.
 Git is a type of thinking about working with files.
@@ -25,5 +25,5 @@ JavaScript gives behaviour to this material.
 Whole projects here are interfaces.
 Problems to address are how do you make a presentation in JavaScript.
 Since the rough road map is outlined, it would make sense to now map the state of content I already have and need to process before proceeding forward.
-Thus #productivitypatterns before #creativecoding
+Thus #productivitypatterns before #creativecoding.
 * 2023 
