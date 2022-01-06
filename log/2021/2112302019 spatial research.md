@@ -1,6 +1,6 @@
 ## 2112302019 spatial research
 
-Hi there 👋 this is DRAFT VS 02.03 and is subject to revision!
+* Hi there 👋 this is DRAFT VS 02.03 and is subject to revision!
 
 2000 - 2010 was #shoppingtheatre, early stages of locating architectural research. 
 After that publishing anxieties creates #machimach.com on December 25th, 2010. 
@@ -22,4 +22,4 @@ Concepts the investigation tries to address are the consumption frameworks of th
 #shoppingtheatre in 2021 - '22 makes more appropriate a situation to address as it did in 2003. 
 Everything on the internet is something is sold or battered for a price or given away in exchange for attribution. 
 To rethink the #architecturalpractice or #spatialdesignpractice of today, in this economy is the discourse to articulate.
-    * 2201061103
+   * 2201061103
