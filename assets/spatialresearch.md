@@ -1,1 +1,4 @@
-does spatialresearch need a visual framework to articulate its work?
+shoppingtheatre2003 - architectural research
+machimach.com 2010 - architectural knowledge construnction
+spatialresearch.net 2020 - architectural imagination
+soppyfactory 2021 - visualweb3
