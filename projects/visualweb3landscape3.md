@@ -4,9 +4,9 @@
 - who are its popular voices?
 ---
 # log
-- lot update 03
-- lot update 02
-- lot update 01
+- lot update 03 2201080047 Date
+- lot update 02 2112230921 Type
+- lot update 01 2112202221 List 
 ---
 # working notes
 
