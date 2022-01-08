@@ -1,7 +1,7 @@
 #questions
-- what is visual web3?
-- who are its popular voices?
+- what is visual web3 as technology?
 - what is its contribution in visual internet culture?
+- who are its popular voices?
 ---
 # log
 - lot update 03
