@@ -23,20 +23,22 @@ Draft 01 2112282127
 
 THEORY | what is the metaverse?
 
-01 Reading. background texts and references
-02 Concept. introduction to central ideas
-03 Technology. essential blockchains, content creation technology
-04 Blog. popular news sources
+* 01 Reading. background texts and references
+* 02 Concept. introduction to central ideas
+* 03 Technology. essential blockchains, content creation technology
+* 04 Blog. popular news sources
+
 MARKET | what are the extents of spatial interventions on the semantic web?
 
-05 Exchange. places to buy currencies from
-06 Wallet. private crypto wallets to temporarily park purchased currency for transactions
-07 Marketplace. sell and collect tokens
-08 Metaverse. virtual worlds, mixed reality experiences
+* 05 Exchange. places to buy currencies from
+* 06 Wallet. private crypto wallets to temporarily park purchased currency for transactions
+* 07 Marketplace. sell and collect tokens
+* 08 Metaverse. virtual worlds, mixed reality experiences
+
 CULTURE | what do case studies indicate futures of the technology are?
 
-09 Corporate Platform. mainstream adoption of trending technologies
-10 Mirror World. replicating earth, planetary imagery as a collectibles
-11 Real Estate. partial utilitarian services
-12 Service Provider. nft projects, extended marketplace tools, metaverse guides
-13 DAO. actual, eventual, decentralized autonomous organizations
+* 09 Corporate Platform. mainstream adoption of trending technologies
+* 10 Mirror World. replicating earth, planetary imagery as a collectibles
+* 11 Real Estate. partial utilitarian services
+* 12 Service Provider. nft projects, extended marketplace tools, metaverse guides
+* 13 DAO. actual, eventual, decentralized autonomous organizations
