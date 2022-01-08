@@ -1,1 +1,6 @@
-with the blockchain hitting all high enthusism what does the future hold for the space and for spatial practices?
+#log
+lot update 03
+lot update 02
+lot update 01
+---
+#working notes
