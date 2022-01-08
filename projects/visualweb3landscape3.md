@@ -9,10 +9,10 @@
 - lot update 01 2112202221 List 
 ---
 # working notes
-daily sentences 2201070733
+### daily sentences 2201070733
 * updating the visual web3 landscape list
 
-draft 01 2112282127
+### draft 01 2112282127
 > “Technology is changing the way people work. With electronic mail, the internet, teleconferencing, people are starting to ask, ‘What is a headquarters or office environment?’” Art Gensler
 
 > "The future always looks good in the golden land, because no one remembers the past." Joan Didion
