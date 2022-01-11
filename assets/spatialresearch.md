@@ -1,4 +1,6 @@
-shoppingtheatre2003 - architectural research
-machimach.com 2010 - architectural knowledge construnction
-spatialresearch.net 2020 - architectural imagination
-soppyfactory 2021 - visualweb3
+# what is a personal history of a practice?
+
+* shoppingtheatre2003 - architectural research
+* machimach.com 2010 - architectural knowledge construnction
+* spatialresearch.net 2020 - architectural imagination
+* soppyfactory 2021 - visualweb3
