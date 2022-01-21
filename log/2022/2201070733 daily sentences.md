@@ -1,7 +1,7 @@
 ## 2201070733 daily sentences
 
 * updating the visual web3 landscape list
-I mean the idea of research during a time was to gather information, process that information and develop it into a knowledge product.
+* I mean the idea of research during a time was to gather information, process that information and develop it into a knowledge product.
 During early architectural times it was more to investigate how to deconstruct the form and contribute to a building culture in a context a project is required.
 Information, datasets required to solve the spatial problem was limited.
 In many cases like in urban sites it was difficult to ascertain too. 
