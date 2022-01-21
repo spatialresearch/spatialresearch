@@ -1,7 +1,6 @@
 daily sentences 2201101237
-
-Today's significant deal is all about daily writing.
-Ali, that guy who was a doctor and how makes videos also started writing daily publicly.
+* Today's significant deal is all about daily writing.
+* Ali, that guy who was a doctor and how makes videos also started writing daily publicly.
 Based on some of his daily videos he used to write privately, when he got him Roam.
 Time and reflection are the two things I am concerned of what will come about of it.
 How does random writing happen who wants to consume your thoughts of the day?
