@@ -1,7 +1,7 @@
 ## 2201081229 daily sentences
 
 * creation of categories
-When there is large amount of material to sort, patterns automatically forms.
+* When there is large amount of material to sort, patterns automatically forms.
 In most cases.
 This is very inspired from Foucault, who will soon become the central reference point on the making of ideas.
 Of what I have leaned till now is when there is a thing, which is whole it is easy to name its parts.
