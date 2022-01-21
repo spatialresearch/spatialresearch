@@ -1,7 +1,7 @@
 ## 2201061953 daily sentences
 
 * reconfiguring #shoppingtheatre
-I wouldn't have normally done a major renaming on a very odd thursday such as this.
+* I wouldn't have normally done a major renaming on a very odd thursday such as this.
 But it just happened and waiting for another time seemed inappropriate.
 so #shoppingtheatre comes back to tie up older trajectories and directions of investigations.
 It is true they say it takes time for the practice to manifest and you have to have several iterations to actually tie down a theory of sorts.
