@@ -1,8 +1,7 @@
 ## 2201091647 daily sentences
 
 * #productivitypatterns origin story and tentative plan
-
-Has had three versions.
+* The search in productivity systems has had three versions.
 It started as #roamlearning in RoamResearch.
 Roam said it would solve all the productivity problems and could make writing easier. 
 I had to try it out. 
