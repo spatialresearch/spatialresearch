@@ -1,7 +1,7 @@
 ## 2111101923 daily sentences
 
 * ideas from twenty years on reading architecture
-These are though jogs to get the project going.
+* These are though jogs to get the project going.
 The task for all purposes is a set of five books, a bunch of notion microsites and three websites when finally over.
 I wouldn't call it a portfolio but a rethinking of architecture practice as a publishing activity.
 There are limitations in how much a physical building can facilitate new knowledge about architecture.
