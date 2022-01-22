@@ -1,7 +1,7 @@
 ## 2201151113 daily sentences
 
-* writing vs thinking
-This is a theme that keeps recurring in these sentences.
+* rearticulating writing vs thinking
+* This is a theme that keeps recurring in these sentences.
 In part it is to make both the activities of writing and thinking to work together.
 Thinking as even identified in the very early days are words that stream across in the head that is directly put down on the screen.
 300words can get done in 20minutes.
