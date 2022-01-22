@@ -12,7 +12,7 @@ It is research data you can say.
 Note-taking is not a traditional form of idea generation tool for an architectural practice.
 How to develop that into a workflow for knowledge production. 
 After tagging, or tagging is to finish the index.
-Index processing is next on the agenda to look at the various trends of ideas that I dabbled with.  
+Index processing is next on the agenda to look at the various trends of ideas that I dabbled with.
 Data patterns that makes an annual knowledge map.
 The gaps which exist I will address and add to in the next. 
 Year one note-book I have structured in a certain capacity. 
