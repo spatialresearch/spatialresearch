@@ -1,7 +1,7 @@
 2201170855 daily sentences
 
 * making a drawing of foucault, alexander, and castells
-* Today was more drawing than actually writing.
+* Today was more planning diagramming than actually writing.
 If not well accounted for daily sentences does take time.
 I find myself repeating that so very many times.
 Probably a future AI will find the number of times I said that here.
