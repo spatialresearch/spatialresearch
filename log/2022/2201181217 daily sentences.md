@@ -1,7 +1,7 @@
 2201181217 daily sentences
 
 * personal workflow management or PWM
-So this is what we have arrived at after almost 11 months on RoamResearch.
+* So this is what we have arrived at after almost 11 months on RoamResearch.
 Every time there is a breakthrough and there is progress, after a while it is outdated.
 PWM is now personal document management + personal information management + personal knowledge management.
 All of this has happened incrementally.
