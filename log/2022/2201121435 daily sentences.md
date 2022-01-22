@@ -1,7 +1,7 @@
 ## 2201121435 daily sentences
 
 * time and its relation to productivity
-The main problem with daily notes, are that it is only looked at and addressed as daily notes.
+* The main problem with daily notes, are that it is only looked at and addressed as daily notes.
 Thinking in weekly, monthly, or annual notes aren't possible.
 Its possible, its not very feasible to think review I would argue in any of the markdown note-taking apps.
 The construct is plausible.
