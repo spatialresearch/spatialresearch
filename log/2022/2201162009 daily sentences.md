@@ -1,7 +1,7 @@
 ## 2201162009 daily sentences
 
 * planning a reading of foucault, alexander and castells
-This is tricky.
+* This is tricky.
 I have had these sets of books for a while, but the fact that they were all grand theories is new.
 Luhmann's made that possible.
 Ideally everything should start with Foucault, then Alexander and finally close the discourse with Castells.
