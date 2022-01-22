@@ -1,7 +1,7 @@
 ## 2201130945 daily sentences
 
 * attempting to sort evernote again 
-This is a task I have started and abandoned several times. 
+* This is a task I have started and abandoned several times. 
 Form of the annual review is necessary to construct to keep track of the knowledge landscape.
 What are the various ideas that I have engaged with and how does that inform or change the perception of a larger spatial discourse.
 Organising notes take a lot more time than previously anticipated.
