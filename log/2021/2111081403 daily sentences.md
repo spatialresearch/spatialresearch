@@ -1,7 +1,7 @@
-2111081403 daily sentences
+## 2111081403 daily sentences
 
 * testing out notion as a book thinking engine
-To do my readers (compilations of writings on urbanism) and then that very early one for PiCA Vox in 2004, I worked sorting the content in excel.
+* To do my readers (compilations of writings on urbanism) and then that very early one for PiCA Vox in 2004, I worked sorting the content in excel.
 It works quite well and to not continue it is in many ways not advisable.
 There is also a certain level of structuring that goes into thinking in excel and you see the material that may be published as a map.
 Then came Google Sites.
