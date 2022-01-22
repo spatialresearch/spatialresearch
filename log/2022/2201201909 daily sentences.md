@@ -21,10 +21,3 @@ To manage therefore is personal documents/ PDM, personal information/ PIM, and p
 The assembly line is a possible version of personal workflow management/ PWM framework incorporating iteratively product development from documents to information to published knowledge products.
 
 * 2349
-
-PWM is cyclic. 
-Depends on how its looked at, the workflow begins at either with 01 #buildinpublic on social media or content or ideas generation with personal documents. In early stages thinking is considered both as text or as drawing.  
-#PKM 
-08 edit 
-09 publish mark
-01 #buildinpublic Social Media
