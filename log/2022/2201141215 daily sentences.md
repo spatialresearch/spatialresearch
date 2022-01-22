@@ -1,7 +1,7 @@
 ## 2201141215 daily sentences
 
 * writing design and the design of writing
-It is more important to write about architecture than build architecture these days.
+* It is more important to write about architecture than build architecture these days.
 If writing about architectural practices is urgent what form should it take.
 This is my second year building the #writingpractice.
 The system is in place.
