@@ -1,7 +1,7 @@
 ## 2111091713 daily sentences
 
 * production of indian architecture between netscape and the metaverse
-To understand that today, or in the times these sentences are written in the creative economy is what space that will validate an architectural practice.
+* To understand that today, or in the times these sentences are written in the creative economy is what space that will validate an architectural practice.
 Building during the time of climate change is tricky. 
 Should you build is also another question.
 How you build such that it can carry forward a culture of making is also a conversation to address.
