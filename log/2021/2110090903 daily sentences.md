@@ -1,5 +1,6 @@
-## 2240
-As the clock read 1040, I am relived that I have actually finished writing all the days from 23rd onwards. 
+## 2110090903 daily sentences
+* thinking + reading + note-taking + drawing + writing
+* As the clock read 1040, I am relived that I have actually finished writing all the days from 23rd onwards. 
 Now including this one, I have to upload, edit, make daily art for all of them and then post it.
 Two on twitter and the library I will post online, the report will be mailed and the rest will go up as is. 
 It refreshing to actually catchup. 
