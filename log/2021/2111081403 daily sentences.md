@@ -14,8 +14,8 @@ It works both privately and publicly like sites.
 You also don't have to pay extra like in Obsidian.
 Applications such as these assembles systems of thinking about ideas and therefore a method of disseminating it. 
 It replicates a type of thinking, or so it is argued.
-All the four books that will lead to this one, `A Thesis on Indian Architectural Imagination`, is linked into a template for processing.
-I have broadly my days in academia, very brief time in practice and the the rest in research.
+All the four books that will lead to this one, A `Thesis on Indian Architectural Imagination`, is linked into a template for processing.
+I have broadly my days in academia, very brief time in practice and the rest in research.
 How everything, a perception of Architectural Knowledge has changed what we understand as architecture today.
 A then and now is the easiest to understand and locate thinking about the domain.
 All annual conversations have 32 mid sized essays or 16 large ones. 
