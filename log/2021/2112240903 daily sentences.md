@@ -1,4 +1,4 @@
-## 2112240903 daily sentences
+## 2112240903 metaverse #visuallandscapes
 
 All texts on GitHub are working drafts till otherwise stated. Another way to approach it is every versioned text is a knowledge product of it own. The working project is a strategy to keep an idea active, evolve, iterate it over time to meet requirements of a moment.
 
