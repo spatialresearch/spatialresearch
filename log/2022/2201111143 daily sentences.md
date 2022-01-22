@@ -1,7 +1,7 @@
 ## 2201111143 daily sentences
 
 * three books by christopher alexander
-Yesterday I found the library of Gordon Brander, https://gordonbrander.com/lib.
+* Yesterday I found the library of Gordon Brander, https://gordonbrander.com/lib.
 There is also this https://gordonbrander.com/pattern.
 Both are interesting in their own right. 
 The track I am on is finding the how the work of Christopher Alexander influenced thinking about computer technology.
