@@ -1,4 +1,4 @@
-2201201909 daily sentences
+## 2201201909 daily sentences
 
 * getting that writing practice assembly line in order
 * A writing assembly line is a conceptual framework to guide the development of personal knowledge products/ PKPs, maybe. 
