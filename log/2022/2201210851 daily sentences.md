@@ -3,7 +3,7 @@
 * on the production of contemporary indian architectural discourse
 * There is an overarching disparity in the understanding and knowledge of Indian architectural design theory.
 The reason for this is the lack of authoritative sources on the subject that are recognised.
-Since everyone is publishing, there is also that unclarity on who is an authority.
+Since everyone is publishing, there is also unclarity on who is an authority.
 Indian architecture was a political propaganda that became a theory for discussing spatial production from the country.
 Two state architecture exhibitions, `Architecture in India 1985` and `Vistara 1986` began the ideology.
 Research in architecture is relatively new and has its origins are in reflective practice as developed by Donald Schön.
