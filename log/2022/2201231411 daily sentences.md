@@ -1,0 +1,79 @@
+- #roamlearning an audit of 11 months roamresearch
+- [[October 23rd, 2021]], was the last I was actually used Roam the way I started using it. 
+- I need to push out spatialresearch.net too today but how long it will take to review all the notes here and tie it will decide the length of these sentences.
+- Links I want to archive is moving to mem.ai, which is seems like a much better place for links.
+- RBC4 kinda ruined my daily notes and page organizing after which roam became frustrating to think in.
+- I had a certain control on the graph and could develop ideas in a visual direction but losing a grip on that I guess killed roam for me.
+- Now looking at the graph it I am disappointed at the form I see. 
+- The sidebar is what will make this review of time very easy to do as just a linear scroll, I wouldn't say Roam doesn't work.
+- You can spend a lot of time in Roam, because it rewards writing with every sentence, there is a very satisfying pop.  
+- 23rd of every month from February I review my time or it started by reviewing how the graph was developing. 
+- Roam was supposed to be the answer in getting that writing practice in place but it has only generated processes that mimics productivity.
+- Two books I started and both those aren't complete, a concusses, therefore, to place, books in Roam doesn't work.
+- Books take time and space and a lot of resources goes into it, Roam is very expensive to make a book in.
+- Maybe because I have made books outside to Roam, it feels more comfortable there.
+- mem works better in random capture than Roam, the timeline is much more orderly but messy simultaneously.
+- Taking notes instead of finishing projects is definitely a time kill. 
+- When everything is a note, it is difficult to bring it all together here, there are rbooks but I would recommend Notion over Roam for that. 
+- Roam as I have maintained, not solved problems but created new ones that never should have existed.
+- For eg. I am writing this reflection which I wouldn't have otherwise done and I have done that systematically for the last 11 months.
+- I am no longer thinking in projects making up a practice but a larger mandate a grand theory in the making.
+- A media company with a mandate a note from [[November 23rd, 2021]]. 
+- Block references are a nice feature, but it ends there. 
+- There are so many unfinished open projects now, ideas that can become projects, 2021 Roam was the foundation year for spatialresearch.net, I have to acknowledge.
+- Two phases of building that foundation were recorded yesterday and the day before, just to link ideas of the times.
+- I use VS Code and calendar instead of Roam as a more sustainable option.
+- November was a very hopeful month to get a book finished but that didn't happen.
+- To participate in the creative economy you need to produce more and spend less, spend more time creating an audience to think your ideas with.
+- The architectural as a spatial discourse is essential to build as a narrative of the times and the patronage it receives.
+- Ideas in time is the biggest take away from the 11 months in Roam, it forces you to count your days, which has both its pros and cons.
+- It is a limit to production of knowledge which as factor wasn't something considered in an architectural plan of work from a past.
+- `pink book as a framework of building` [[November 1st, 2022]]
+- The development control regulations of a project has now become a monthly report of works, and an extended published conversation.
+- Links in mem, sentences in VS Code, notes in Evernote, and drafts in OneNote, allocating ideas in specific buckets. 
+- With that I know what kind of material is where instead of everything in one single bucket.
+- Pdf's are in Obsidian and published projects are in notion, Roam will only be for book clubs, if at all I will get to use it. 
+- Over time I may replace mem for Google Keep. 
+- All of that has built a workflow to think, draw and write. 
+- The last year has been an year of finding a satisfactory system to produce writing, this year it is urgent to get that to work.
+- Architectural theory is the only thinking system that can transcend all three spatial domains of the biosphere, metaverse and interplanetary habitation.
+- Annual architectural theory books is an aspiration of the annual conversation reports of sorts for now. 
+- [[October 26th, 2021]] I like the three questions which Kahil asked here to get thinking going, how will you improve your book before it's written?, what is the most valuable parts of your book?, how will you structure your book so that the value is immediate & apparent?
+- A review of what knowledge I gathered from the book clubs is necessary compilation, ideas such as what a form of the roamcult network and therefore the form of the virtual book club could be.
+- [[October 24th, 2021]] roam as a market place of ideas.
+- productivitypatterns as practice framework leads into zettelkasten3 and links to the writing assembly line, that is where I am at with getting that writing system in place. 
+- Right now its too complicated which needs streamlining a bit over time, I think its complicated. 
+- [[April 30th, 2021]] is when I started switching off thinking in roam, it is easy to keep logging ideas on the daily notes page but to actually get work done it is on pages. 
+- Part of my losing interest is because of not knowing this early on, productivity happens, I found very late by using an existing set of apps to its fullest extent than new apps.
+- The time I spent in the early days with roam at first researching under roamlearning and then toolsforthought I wonder if I spent it elsewhere would have been a better use of my time.  
+- [[April 20th, 2021]] https://youtu.be/Q2WBHyqRsxA What is PKM? What is Personal Knowledge Management? video needs criticism, as the other knowledge product which summarized the notetaking culture of 2021
+- [[April 12th, 2021]] instead of thinking like a coder, and learning another domain what is thinking architecturally is, I should have looked into a bit more into as detail.  
+- [[April 3rd, 2022]] out of all the working texts I have decided to finish is [[r. tenet 2020]], it is essential to close roam with it, sooner I can get closure on that, roam will close on its own.
+- Everything else I am leaving out, probably may be [[r. magical thinking]], so for 11months I have just two ideas to take forward, not worth it for a productivity app.
+- Just for notes, I had around 10 articles I started and two books attempted, I finished two out of the 10, two I will carry forward to finish it soon and the books will get done elsewhere.
+- It is difficult to annual review, like if I have to go to a certain month, I have to scroll to the date, there is no direct portal navigation to get there, it is a literal going back in time.
+- Like a specific time on the timeline like to get to [[March 31st, 2021]] where the tenet review needs tyding up and closure.
+- There are a bunch of texts I would like to send Matt as gratitude for the roam fellowship that I was able to try out a framework for productivity, these lessons I would carry on.
+- A personal [[e. history of notetaking]] tying all the note-taking apps I have used also is part of the package, also close with the 12 things I learned about productivity in 2021. 
+- You take notes when you momentarily think the ideas you are noting down are important but in many cases several of it seems quite useless to apply, taking notes for the sake of it is pointless I guess.
+- Remembering why you took a certain note at a moment in the past is definitely an idea to get back to.  
+- March and April, I have used the daily notes and some pages to a possible limit I could have had, instead of thinking about notetaking just getting on with research on architectural research should have sufficed. 
+- Roam has created productivitypatterns as a problem which needs to be addressed, also the community too has manifested the issue that needs addressing. 
+- [[March 23rd, 2021]] is when I noted how an intellectual culture is missing in Indian architectural discourse, I still have to finish that and dispatch it to somewhere.
+- Defining a note template too is another pointer that is a Roam learning, there is the note title which is as Beau calls it a low resolution entrance point to the idea.
+- For Roam notes I have day | time | tag & title.
+- I don't quite see the point of having a pile of permanent notes that I may or may not reuse, there definitely has to be a better way to think about research writing instead of by note-taking.
+- Writing is fine but how much of your own notes do you read back, and why is the question when there are so many new ideas that need attention instead of your past imaginations of futures. 
+- Tracking mails from the CoA should be a thing, an analysis on how it has redefined architecture as we know it. 
+- [[March 15th, 2021]] I really got thinking about the roamcult, notetaking and the book club, in hindsight I am not sure what to make of that now.
+- Thinking in tags instead of folders [[March 2nd, 2021]], then those tags link together to make a graph.
+- So that's that, or how an year in roam went by, broadly there are two themes that was investigated, I wish here the graph would be of some assistance but if there are errors with the page links the graph too is wonky.
+- roamlearning and writingpractice.
+- Both did become one as productivitypatterns, so what Roam did is move the gaze of an idea from it to a project, that by the subscription year end or the 23rd of Feb to have reached a point of clarity.
+- Archiving roamnotes is a plan along with archiving all the other notes from everywhere therefore closing productivitypatterns phase 01. 
+- When you have projects you make the project here what happened with roam a project came to being purely by creating an existential crisis. 
+- Activity leading to another activity time and circumstance will tell if its good or bad, note-taking in Roam. 
+- There is lag too, I think. 
+- Note-taking systems should be part of a workflow, things should flow naturally, it feels too much of a mid-life crisis to articulate a framework for productivity. 
+- A rabbit hole that may be a new home for a foreseeable future. 
+- 2201250019
