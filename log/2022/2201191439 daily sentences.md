@@ -1,4 +1,4 @@
-2201191439 daily sentences
+## 2201191439 daily sentences
 
 * i have a lot on my plate and it needs sorting
 * Sentences have now three distinct roles, for thought, writing drafts and planning.
