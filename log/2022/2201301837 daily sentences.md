@@ -1,7 +1,7 @@
 2201300837 daily sentences
 
 * an #indian spatial planning and building knowledge system
-* This are stray thoughts for now on from two other knowledge systems, I am working on that could lead into a this third one on #indianarchitecture.
+* These are stray thoughts for now on from two other knowledge systems, I am working on that could lead into a this third one on #indianarchitecture.
 In a past everything spatial was considered architecture.
 Then in the new landscape as imagined by Correa in '85 it became architecture and planning among education and planning.
 The domain locally started breaking down into interior design, graphic design, product design, conservation and landscape architecture around the early 2000's.
