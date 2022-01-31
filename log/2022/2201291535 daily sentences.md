@@ -1,4 +1,4 @@
-2201291535 daily sentences
+## 2201291535 daily sentences
 
 * everyday backups as a way of constructing knowledge
 * Something that got missed out in thinking the writing assembly line is phone.
