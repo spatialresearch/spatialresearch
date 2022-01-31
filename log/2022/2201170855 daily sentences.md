@@ -1,4 +1,4 @@
-2201170855 daily sentences
+## 2201170855 daily sentences
 
 * making a drawing of foucault, alexander, and castells
 * Today was more planning diagramming than actually writing.
