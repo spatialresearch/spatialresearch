@@ -1,6 +1,6 @@
 ## 2201250931 daily sentences
 
-* How Contemporary Indian Architecture Production Works?
+* of How Contemporary Indian Architecture Production Works?
 * Almost.
 If it was a longish essay I may have this quote to introduce positions `if the old doesn't leave the new will never arrive`. 
 Between the title and the blurb, there are two parts of the problem statement the research is trying to address. 
