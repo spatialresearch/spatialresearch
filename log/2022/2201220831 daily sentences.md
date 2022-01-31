@@ -1,4 +1,4 @@
-2201220831 daily sentences
+## 2201220831 daily sentences
 
 * working proposal for old and brand new landscape
 * I have a tendency write and rewrite posts.
