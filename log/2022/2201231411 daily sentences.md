@@ -1,3 +1,5 @@
+## 2201231411 daily sentences
+
 - #roamlearning an audit of 11 months roamresearch
 - [[October 23rd, 2021]], was the last I was actually used Roam the way I started using it. 
 - I need to push out spatialresearch.net too today but how long it will take to review all the notes here and tie it will decide the length of these sentences.
@@ -14,7 +16,8 @@
 - Maybe because I have made books outside to Roam, it feels more comfortable there.
 - mem works better in random capture than Roam, the timeline is much more orderly but messy simultaneously.
 - Taking notes instead of finishing projects is definitely a time kill. 
-- When everything is a note, it is difficult to bring it all together here, there are rbooks but I would recommend Notion over Roam for that. 
+- When everything is a note, it is difficult to bring it all together here. 
+- There are rbooks but I would recommend Notion over Roam for that. 
 - Roam as I have maintained, not solved problems but created new ones that never should have existed.
 - For eg. I am writing this reflection which I wouldn't have otherwise done and I have done that systematically for the last 11 months.
 - I am no longer thinking in projects making up a practice but a larger mandate a grand theory in the making.
