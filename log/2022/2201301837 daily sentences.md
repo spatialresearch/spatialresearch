@@ -1,4 +1,4 @@
-2201300837 daily sentences
+## 2201300837 daily sentences
 
 * an #indian spatial planning and building knowledge system
 * These are stray thoughts for now on from two other knowledge systems, I am working on that could lead into a this third one on #indianarchitecture.
