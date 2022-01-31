@@ -1,4 +1,4 @@
-2201271103 daily sentences
+## 2201271103 daily sentences
 
 * education vs practice, directions for architectural knowledge
 * It is about the role of research, history, theory, and criticism in architecture.
