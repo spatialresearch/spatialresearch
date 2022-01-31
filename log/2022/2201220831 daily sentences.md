@@ -1,7 +1,7 @@
 2201220831 daily sentences
 
 * working proposal for old and brand new landscape
-I have a tendency write and rewrite posts.
+* I have a tendency write and rewrite posts.
 Publishing drafts in some sense.
 This is a new trend, a second one which I am sending across of writing micro statement of purpose. 
 The chap or the team picks up random ideas they think that according to them have potential, also who they want to pay monies to.
