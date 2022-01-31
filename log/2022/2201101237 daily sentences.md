@@ -1,5 +1,5 @@
 ## daily sentences 2201101237
-* today's significant deal is all about daily writing.
+* today's significant deal is all about daily writing
 * Ali, that guy who was a doctor and how makes videos also started writing daily publicly.
 Based on some of his daily videos he used to write privately, when he got him Roam.
 Time and reflection are the two things I am concerned of what will come about of it.
